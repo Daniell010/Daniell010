@@ -5,6 +5,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Daniell010&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Daniell010&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniell010&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+# 📊LeetCode Stats :
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Diray0&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ---
